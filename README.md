@@ -1,4 +1,4 @@
-# sinnak
+# Sinnak
 
 A new Flutter project.
 
